@@ -1,0 +1,11 @@
+(lang dune 3.16)
+(name ocaml-index)
+(version 5.2.1-502)
+(sections
+ (lib /Users/julie12yu/ocaml_playground/hello/_opam/lib/ocaml-index)
+ (bin /Users/julie12yu/ocaml_playground/hello/_opam/bin)
+ (doc /Users/julie12yu/ocaml_playground/hello/_opam/doc/ocaml-index))
+(files
+ (lib (META dune-package opam))
+ (bin (ocaml-index))
+ (doc (CHANGES.md LICENSE README.md)))

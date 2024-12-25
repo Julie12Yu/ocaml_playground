@@ -1,0 +1,21 @@
+opam-version: "2.0"
+added: [
+  "doc/ordering" {"D"}
+  "doc/ordering/CHANGES.md" {"F:S170837T1732234682.41"}
+  "doc/ordering/LICENSE.md" {"F:S1111T1732234682.42"}
+  "doc/ordering/README.md" {"F:S6004T1732234682.42"}
+  "lib/ordering" {"D"}
+  "lib/ordering/META" {"F:S194T1732234682.41"}
+  "lib/ordering/dune-package" {"F:S792T1732234682.41"}
+  "lib/ordering/opam" {"F:S760T1732234682.41"}
+  "lib/ordering/ordering.a" {"F:S6376T1732234682.41"}
+  "lib/ordering/ordering.cma" {"F:S7390T1732234682.41"}
+  "lib/ordering/ordering.cmi" {"F:S1329T1732234682.41"}
+  "lib/ordering/ordering.cmt" {"F:S12616T1732234682.41"}
+  "lib/ordering/ordering.cmti" {"F:S10270T1732234682.41"}
+  "lib/ordering/ordering.cmx" {"F:S1220T1732234682.41"}
+  "lib/ordering/ordering.cmxa" {"F:S184T1732234682.41"}
+  "lib/ordering/ordering.cmxs" {"F:S52496T1732234682.41"}
+  "lib/ordering/ordering.ml" {"F:S648T1732234682.41"}
+  "lib/ordering/ordering.mli" {"F:S1516T1732234682.41"}
+]
